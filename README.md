@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![ChongZhiJie0216's GitHub stats-Dark](https://github-readme-stats-five-psi-71.vercel.app/api?username=ChongZhiJie0216&show_icons=true&theme=dark#gh-dark-mode-only)]
-[![ChongZhiJie0216's GitHub stats-Light](https://github-readme-stats-five-psi-71.vercel.app/api?username=ChongZhiJie0216&show_icons=true&theme=default#gh-light-mode-only)]
-[![Top Langs](https://github-readme-stats-five-psi-71.vercel.app/api/top-langs/?username=ChongZhiJie0216)]
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-chongzhijie0216.vercel.app/api?username=ChongZhiJie0216&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ChongZhiJie0216/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-chongzhijie0216.vercel.app/api?username=ChongZhiJie0216&show_icons=true&theme=default#gh-light-mode-only)](#gh-light-mode-only)
+![Top Langs](https://github-readme-stats-chongzhijie0216.vercel.app/api/top-langs/?username=ChongZhiJie0216&langs_count=8&layout=compact)
